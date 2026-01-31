@@ -1,8 +1,8 @@
 # Person Search Project: Pedestrian Detection & Re-ID
 
-Student ID: 1900140531 
-Student Name: Yingwen PENG 
-Institutional Email: peng.yingwen@studio.unibo.it
+Student ID: 1900140531 \
+Student Name: Yingwen PENG \ 
+Institutional Email: peng.yingwen@studio.unibo.it \
 
 ## 1. Project Overview
 
